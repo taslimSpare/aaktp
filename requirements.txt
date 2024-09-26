@@ -1,0 +1,6 @@
+dash
+dash-daq
+gunicorn
+numpy
+pandas
+dash-mantine-components
